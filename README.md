@@ -1,1 +1,3 @@
-# Testowe-portfolio
+# PORTFOLIO
+
+## O mnie
