@@ -62,3 +62,4 @@ Jestem osobą dokładną, analityczną i zdeterminowaną do ciągłego doskonale
 ## Webinary
 * Testy dostępności i standard WCAG 2.2 
 * Testowanie REST API dla początkujących
+* AI w testowaniu oprogramowania: Przyszłość testowania
